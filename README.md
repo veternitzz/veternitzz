@@ -1,1 +1,3 @@
+# ello, i'm anthony! :3
+
 [![veternitzz's GitHub stats](https://github-readme-stats.vercel.app/api?username=veternitzz&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
